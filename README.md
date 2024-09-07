@@ -1,2 +1,2 @@
-# Sidcup-family-glof-clone
+# Sidcup-family-golf-clone
 SIdcup Family Golf Clone
